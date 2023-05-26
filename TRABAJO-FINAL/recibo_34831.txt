@@ -1,0 +1,21 @@
+BURGER MAX
+==========
+Ref.Pedido: 34831
+Fecha: 04/07/2022
+Hora: 13:03:39
+Nombre: Parker
+
+Combo clásico:       11.90 PEN
+Combo tocino:        14.90 PEN
+Combo light:         12.90 PEN
+==============================
+
+
+Costo:               52.60 PEN
+Delivery [3%]:        1.58 PEN
+Impuesto [18%]:       9.47 PEN
+Total:               63.65 PEN
+
+==============================
+
+Precio Final:       57.28 PEN
